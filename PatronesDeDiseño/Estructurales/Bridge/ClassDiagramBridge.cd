@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bridge.CustomersBase" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgKAAAAAAAAAAAAAAAAAAAAAAAEkABgAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Customers" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.CustomersData" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAAAAAFABAADABAAAAAA=</HashCode>
+      <FileName>CustomersData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.DataObject" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAAAAABABAADAAAAAAAA=</HashCode>
+      <FileName>DataObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.MainApp" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

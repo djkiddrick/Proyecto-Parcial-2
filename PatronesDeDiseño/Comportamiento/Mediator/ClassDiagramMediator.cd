@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mediator.AbstractChatroom" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractChatroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator.Beatle" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Beatle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator.Chatroom" Collapsed="true">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAEAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chatroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator.MainApp" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator.NonBeatle" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>NonBeatle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator.Participant" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAAAAAAAAAAEAAACQAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Participant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
